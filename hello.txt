@@ -1,8 +1,1 @@
 hello
-hello 2 and 3!
-hello 1 from user 1
-hello 2
-line from user 0 and from user 1
-line 0
-development branch line
-new line from dev branch
